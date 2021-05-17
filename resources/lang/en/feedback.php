@@ -1,0 +1,22 @@
+<?php
+return [
+    'name-required' =>'Please enter your name',
+    'email-required' =>'Please enter your email',
+    'title-required' => 'Please enter title',
+    'content-required' =>'Please enter Content',
+    'email-email' => 'Invalid email',
+    'name-max' =>'Name can not more than 50 characters',
+    'title-max'=>'Title can not more than 255 characters',
+    'name' => 'Name',
+    'email' => 'Email',
+    'title' => 'Title',
+    'content' => 'Content',
+    'save' => 'Send Feedback',
+    'stt' => 'Number',
+    'list' => 'Feedback Listing',
+    'ReplyBy' => 'Reply By',
+    'Action' => 'Actions',
+    'Noresponseyet' => 'No response yet',
+    'Reply' => 'Reply',
+    'replynow'=>'Reply Now',
+];

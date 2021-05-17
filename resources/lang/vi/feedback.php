@@ -1,0 +1,22 @@
+<?php
+return [
+    'name-required' =>'Xin nhập tên',
+    'email-required' =>'Xin nhập email',
+    'title-required' => 'Xin nhập tiêu đề',
+    'content-required' =>'Xin nhập nội dung',
+    'email-email' => 'Email không hợp lệ',
+    'name-max' =>'Không nhập quá 50 kí tự',
+    'title-max'=>'Không nhập quá 255 kí tự',
+    'name' => 'Tên',
+    'email' => 'Email',
+    'title' => 'Tiêu đề',
+    'content' => 'Nội dung',
+    'save' => 'Gửi phản hồi',
+    'stt' => 'Stt',
+    'list' => 'Danh sách phản hồi',
+    'ReplyBy' => 'Người phản hồi',
+    'Action' => 'Hành động',
+    'Noresponseyet' => 'Chưa phản hồi',
+    'Reply' => 'Phản hồi',
+    'replynow'=>'Phản hồi ngay',
+];

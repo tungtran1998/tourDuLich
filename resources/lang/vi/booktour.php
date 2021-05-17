@@ -1,0 +1,65 @@
+<?php
+return [
+    'addnew' => 'Thêm mới',
+    'stt' => 'Stt',
+    'Tourbookingcode' => 'Mã đơn đặt tour',
+    'Tourname' => 'Tour name',
+    'Dateofbooking' => 'Date of booking',
+    'Status' => 'Status',
+    'Totalmoney' => 'Total money (VNĐ)',
+    'Tourbookinglisting' => 'Danh sách đặt tour',
+    'Tourbookingdetails' => 'Xem chi tiết đơn đặt tour',
+    'Fullname' => 'Họ và tên',
+    'Phone' => 'Số điện thoại',
+    'Email' => 'Email',
+    'Dateofbooking' => 'Ngày đặt tour',
+    'Departurelocation' => 'Điểm xuất phát',
+    'Destination' => 'Điểm đến',
+    'SLadults' => 'SL Người lớn / Giá 1 người lớn',
+    'SLchildren' => 'SL Trẻ em / Giá 1 trẻ em',
+    'people' => 'người',
+    'Numberofdays' => 'Số ngày',
+    'day' => 'Ngày',
+    'Timestart' => 'Thời gian xuất phát',
+    'Daystogo' => 'Ngày xuất phát',
+    'Returndate' => 'Ngày về',
+    'Vehicle' => 'Phương tiện',
+    'Promotion' => 'Khuyến mãi',
+    'Note' => 'Lưu ý',
+    'Status' => 'Trạng thái',
+    'Unconfimred' => 'Chưa xác nhận',
+    'Confirmed' => 'Đã xác nhận',
+    'Payments' => 'Hình thức thanh toán',
+    '' => '',
+    '' => '',
+    '' => '',
+    '' => '',
+    '' => '',
+    '' => '',
+    '' => '',
+    '' => '',
+    '' => '',
+    '' => '',
+    '' => '',
+    '' => '',
+    '' => '',
+    '' => '',
+    '' => '',
+    '' => '',
+    '' => '',
+    '' => '',
+    '' => '',
+    '' => '',
+    '' => '',
+    '' => '',
+    '' => '',
+
+
+
+   
+
+
+
+
+
+]; 

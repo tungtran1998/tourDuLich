@@ -1,0 +1,60 @@
+<?php
+return [
+    'addnew' => 'Add New',
+    'stt' => 'Number',
+    'roomcode' => 'Room Code',
+    'price' =>'Price (VND)',
+    'name' => 'Name',
+    'status' => 'Status',
+    'location' => 'Location',
+    'adult' => 'Adult (people)',
+    'kid' => 'Kid (people)',
+    'acreage' =>'Acreage (m2)',
+    'roomtype' => 'Room type',
+    'tag' => 'Tags',
+    'service' => 'Services',
+    'view' =>'Views',
+    'image' =>'Avatar Room',
+    'imagedetail' => 'Image Room',
+    'main-image' => 'This is the main image to display',
+    'description' =>'Description(*)',
+    'action' => 'Actions',
+    'listing' => 'Room Listing',
+    'create' =>'Create New Room',
+    'edit' =>'Update Room',
+    'detail' => 'Detail Room',
+    'save' =>'Save',
+    'display' =>'Display',
+    'non-display' =>'Not Display',
+    'select-roomtype' => 'Select RoomType',
+
+    'createby' =>'Create By',
+    'updateby' => 'Updated by',
+    'time' => 'Time',
+    'imagedetailroom' => 'Here is the picture description room',
+    'titleimage' => 'Image listing in Room',
+    'updateimage' => 'Update',
+
+    //validation
+    'unique' => 'Name already exists.',
+    'required.name' => 'Please enter name.',
+    'required.room_type_id' => 'Please choice Room type.',
+    'required.price' => 'Please enter Price',
+    'required.location' => 'Please enter Location.',
+    'required.adult' => 'Please enter number of Adult.',
+    'required.kid' => 'Please enter number of Kid.',
+    'required.acreage' => 'Please enter Acreage.',
+    'required.services' => 'Please choice Services.',
+    'required.tags' => 'Please choice Tags.',
+
+    'max.name'=> 'Maximum length is 100 characters',
+    'required.description' => 'Please enter description.',
+    'max.description'=> 'Maximum length is 255 characters',
+
+    '1st' => '1St Floor',
+    '2st' => '2St Floor',
+    '3st' => '3St Floor',
+
+
+
+]; 

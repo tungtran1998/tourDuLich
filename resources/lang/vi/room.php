@@ -1,0 +1,60 @@
+<?php
+return [
+    'addnew' => 'Thêm mới',
+    'stt' => 'Stt',
+    'roomcode' => 'Mã phòng',
+    'price' =>'Giá',
+    'name' => 'Tên phòng',
+    'status' => 'Trạng thái',
+    'location' => 'Vị trí',
+    'adult' => 'Số người lớn',
+    'kid' => 'Số trẻ em',
+    'acreage' =>'Diện tích',
+    'roomtype' => 'Loại phòng',
+    'tag' => 'Nhãn',
+    'service' => 'Dịch vụ',
+    'view' =>'Lượt xem',
+    'image' =>'Ảnh đại diện',
+    'imagedetail' => 'Ảnh phòng',
+    'main-image' => 'Đây là ảnh chính để hiển thị',
+    'description' =>'Mô tả',
+    'action' => 'Hành động',
+    'listing' => 'Danh sách Phòng',
+    'create' =>'Tạo phòng mới',
+    'edit' =>'Cập nhật phòng',
+    'detail' => 'Chi tiết phòng',
+    'save' =>'Lưu',
+    'display' =>'Hiển thị',
+    'non-display' =>'Ẩn',
+    'select-roomtype' => 'Chọn loại phòng',
+
+    'createby' =>'Người tạo',
+    'updateby' => 'Người cập nhật',
+    'time' => 'Thời gian',
+    'imagedetailroom' => 'Đây là ảnh chi tiết phòng',
+    'titleimage' => 'Danh dách Ảnh chi tiết phòng',
+    'updateimage' => 'Cập nhật',
+
+    //validation
+    'unique' => 'Tên phòng đã tồn tại.',
+    'required.name' => 'Xin nhập tên phòng.',
+    'required.room_type_id' => 'Xin chọn thể loại phòng.',
+    'required.price' => 'Xin nhập giá',
+    'required.location' => 'Xin nhập vị trí.',
+    'required.adult' => 'Xin nhập số lượng người lớn.',
+    'required.kid' => 'Xin nhập số lượng trẻ em.',
+    'required.acreage' => 'Xin nhập diện tích phòng.',
+    'required.services' => 'Xin chọn dịch vụ.',
+    'required.tags' => 'Xin chọn nhãn.',
+
+    'max.name'=> 'Không nhập quá 100 kí tự',
+    'required.description' => 'Xin nhập mô tả.',
+    'max.description'=> 'Không nhập quá 255 kí tự',
+
+    '1st' => 'Tầng 1',
+    '2st' => 'Tầng 2',
+    '3st' => 'Tầng 3',
+
+
+
+]; 
